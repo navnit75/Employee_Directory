@@ -1,4 +1,7 @@
 # Introduction
+- Springboot and Thymeleaf based project. 
+- Provides CRUD functionality. 
+- Starter SQL scripts used are provided here. 
 
 ## SQL Script Used 
 ```sql
