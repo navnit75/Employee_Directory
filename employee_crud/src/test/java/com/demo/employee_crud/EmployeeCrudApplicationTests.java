@@ -1,10 +1,10 @@
-package com.luv2code.springboot.thymleafdemo;
+package com.demo.employee_crud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ThymleafdemoApplicationTests {
+class EmployeeCrudApplicationTests {
 
 	@Test
 	void contextLoads() {

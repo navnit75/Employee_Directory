@@ -1,13 +1,13 @@
-package com.luv2code.springboot.thymleafdemo;
+package com.demo.employee_crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThymleafdemoApplication {
+public class EmployeeCrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ThymleafdemoApplication.class, args);
+		SpringApplication.run(EmployeeCrudApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.luv2code.springboot.thymleafdemo.controller;
+package com.demo.employee_crud.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

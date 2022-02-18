@@ -1,6 +1,6 @@
 # Introduction
-- Springboot and Thymeleaf based project. 
-- Provides CRUD functionality. 
+- Basic CRUD project to handle employees, based on `Springboot`,`Hibernate-JPA` and `MySQL`. 
+- Frontend based templating is done with the help of `Thymeleaf`.  
 - Starter SQL scripts used are provided here. 
 
 ## SQL Script Used 
@@ -34,3 +34,17 @@ INSERT INTO `employee` VALUES
 	(5,'Juan','Vega','juan@luv2code.com');
 
 ```
+## Operations
+
+### List Employee
+![](./Images/front_page.jpg)
+
+### Add Employee Page 
+![](./Images/new_employee.jpg)
+
+### Update Employee
+![](./Images/update_employee_details.jpg)
+
+### Delete Employee
+![](./Images/delete_confirmation.jpg)
+

@@ -1,10 +1,10 @@
-package com.luv2code.springboot.thymleafdemo.dao;
+package com.demo.employee_crud.dao;
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.luv2code.springboot.thymleafdemo.entity.Employee;
+import com.demo.employee_crud.entity.Employee;
 
 
 public interface EmployeeRepository extends JpaRepository<Employee,Integer> {

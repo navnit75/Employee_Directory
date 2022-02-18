@@ -1,4 +1,4 @@
-package com.luv2code.springboot.thymleafdemo.service;
+package com.demo.employee_crud.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.luv2code.springboot.thymleafdemo.dao.EmployeeRepository;
-import com.luv2code.springboot.thymleafdemo.entity.Employee;
+import com.demo.employee_crud.dao.EmployeeRepository;
+import com.demo.employee_crud.entity.Employee;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService {

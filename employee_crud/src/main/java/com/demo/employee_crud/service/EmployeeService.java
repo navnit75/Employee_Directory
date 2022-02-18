@@ -1,8 +1,8 @@
-package com.luv2code.springboot.thymleafdemo.service;
+package com.demo.employee_crud.service;
 
 import java.util.List;
 
-import com.luv2code.springboot.thymleafdemo.entity.Employee;
+import com.demo.employee_crud.entity.Employee;
 
 public interface EmployeeService {
 	public List<Employee> findAll();
