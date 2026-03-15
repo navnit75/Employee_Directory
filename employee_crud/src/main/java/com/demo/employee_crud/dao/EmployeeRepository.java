@@ -1,9 +1,7 @@
 package com.demo.employee_crud.dao;
 
 import java.util.List;
-
 import org.springframework.data.jpa.repository.JpaRepository;
-
 import com.demo.employee_crud.entity.Employee;
 
 
