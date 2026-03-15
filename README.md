@@ -13,14 +13,10 @@
   
 
 ## Operations
-`List Employee`
-![](./Images/front_page.jpg)
-
-`Add Employee Page` 
-![](./Images/new_employee.jpg)
-
-`Update Employee`
-![](./Images/update_employee_details.jpg)
-
-`Delete Employee`
-
+> Defined in [EmployeeServiceImpl.java](./employee_crud/src/main/java/com/demo/employee_crud/service/EmployeeServiceImpl.java)
+```markdown
+1. List Employee
+2. Add Employee
+3. Update Employee
+4. Delete Employee
+```
