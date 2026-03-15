@@ -11,16 +11,16 @@
 - Run the server using the `mvn clean && mvn compile && mvn spring-boot:run`. 
 - Server runs on `localhost:8080`.
   
-### List Employee
+
 ## Operations
+`List Employee`
 ![](./Images/front_page.jpg)
 
-### Add Employee Page 
+`Add Employee Page` 
 ![](./Images/new_employee.jpg)
 
-### Update Employee
+`Update Employee`
 ![](./Images/update_employee_details.jpg)
 
-### Delete Employee
-![](./Images/delete_confirmation.jpg)
+`Delete Employee`
 
